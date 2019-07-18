@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/vulkan-go/demos/vulkaninfo"
-	vk "github.com/vulkan-go/vulkan"
+	"github.com/artemisc/go-vulkan-demos/vulkaninfo"
+	vk "github.com/artemisc/go-vulkan"
 )
 
 var appInfo = &vk.ApplicationInfo{

@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/vulkan-go/demos/vulkandraw"
-	vk "github.com/vulkan-go/vulkan"
+	"github.com/artemisc/go-vulkan-demos/vulkandraw"
+	vk "github.com/artemisc/go-vulkan"
 	"github.com/xlab/catcher"
 	"github.com/xlab/ios-go/app"
 )

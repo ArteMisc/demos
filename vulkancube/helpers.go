@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime"
 
-	vk "github.com/vulkan-go/vulkan"
+	vk "github.com/artemisc/go-vulkan"
 )
 
 type Unwind []func()

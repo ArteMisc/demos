@@ -3,7 +3,7 @@ package vulkaninfo
 import (
 	"fmt"
 
-	vk "github.com/vulkan-go/vulkan"
+	vk "github.com/artemisc/go-vulkan"
 	"github.com/xlab/tablewriter"
 )
 

@@ -10,6 +10,6 @@ include $(PREBUILT_SHARED_LIBRARY)
 
 # Enable Vulkan validation layers, you can obtain them at
 # 	https://github.com/LunarG/VulkanTools
-# 	mirror: https://github.com/vulkan-go/VulkanTools
+# 	mirror: https://github.com/artemisc/go-vulkanTools
 
 # include $(LOCAL_PATH)/ValidationLayers.mk

@@ -4,9 +4,9 @@ import (
 	"log"
 	"time"
 
-	as "github.com/vulkan-go/asche"
-	"github.com/vulkan-go/demos/vulkancube"
-	vk "github.com/vulkan-go/vulkan"
+	as "github.com/artemisc/go-vulkan-asche"
+	"github.com/artemisc/go-vulkan-demos/vulkancube"
+	vk "github.com/artemisc/go-vulkan"
 	"github.com/xlab/android-go/android"
 	"github.com/xlab/android-go/app"
 )
